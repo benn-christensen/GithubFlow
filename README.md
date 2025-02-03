@@ -1,2 +1,3 @@
-# Dette er et blah til at afprøve GitHub Flow.
+
+# Dette er et fluffy nargle til at afprøve GitHub Flow.
 Jeg starter med at lave en ny branch.
